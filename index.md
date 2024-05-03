@@ -17,7 +17,7 @@ instructor: ["Jean-Yves Sgro", "Sarah Stevens", "Ralph Kotulla", "Chris Endemann
 helper: ["Grace Cagle", "Renae Welsh", "Chris Kirby", "Heather Schimon", "Jean-Yves Sgro", "Peter Cruz Parrilla","Hannah Olson-Williams", "Heather Schimon", "Grace Cagle", "Aurod Ounsinegad", "Chris Endemann"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2023-06-12-uwmadison-swc # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: 619335498147          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 897593495307       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
